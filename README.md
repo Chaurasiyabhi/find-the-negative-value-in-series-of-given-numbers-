@@ -1,0 +1,1 @@
+# find-the-negative-value-in-series-of-given-numbers-
